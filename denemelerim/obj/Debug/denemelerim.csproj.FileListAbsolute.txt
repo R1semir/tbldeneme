@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\denemelerim\denemelerim\bin\Debug\denemelerim.exe.config
+C:\Users\legen\source\repos\denemelerim\denemelerim\bin\Debug\denemelerim.exe
+C:\Users\legen\source\repos\denemelerim\denemelerim\bin\Debug\denemelerim.pdb
+C:\Users\legen\source\repos\denemelerim\denemelerim\obj\Debug\denemelerim.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\denemelerim\denemelerim\obj\Debug\denemelerim.Form1.resources
+C:\Users\legen\source\repos\denemelerim\denemelerim\obj\Debug\denemelerim.Properties.Resources.resources
+C:\Users\legen\source\repos\denemelerim\denemelerim\obj\Debug\denemelerim.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\denemelerim\denemelerim\obj\Debug\denemelerim.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\denemelerim\denemelerim\obj\Debug\denemelerim.exe
+C:\Users\legen\source\repos\denemelerim\denemelerim\obj\Debug\denemelerim.pdb
